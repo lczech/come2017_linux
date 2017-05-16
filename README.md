@@ -1,4 +1,8 @@
-CoME2017 Linux Intro
+CoME 2017 Lectures
 ====================
 
-Some sample files for you to play around with.
+In this repository, you find all example files for the sessions:
+
+ * Linux Intro
+ * Bash Intro
+ * C++ Intro
